@@ -1,6 +1,6 @@
 ## Hi There it's me Karthikeyan
 
-Junior Django developer
+Backend Python Developer
 
 🌱 I’m currently learning Javascript
 💞️ I’m looking to collaborate on Datascience
